@@ -1,17 +1,20 @@
-### Hi there 👋
 
+<h3 align="center">
+Hi there, I'm <a href="https://www.warnstrom.com/" target="_blank" rel="noreferrer">Anton</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a self-taught Full-Stack Web Developer 💻, currently finishing my degree in Information Technology.
+</h2> 
 <!--
-**Warnstrom/Warnstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔭 I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Rocket launch notifer Discord bot
+- Improving old projects
+
+## 🌱 I'm currently learning
+- Go
+- VueJs
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warnstrom&layout=compact)](https://github.com/warntrsom)
