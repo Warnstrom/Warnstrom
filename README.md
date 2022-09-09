@@ -1,4 +1,4 @@
-
+<!--
 <h3 align="center">
 Hi there, I'm <a href="https://www.warnstrom.com/" target="_blank" rel="noreferrer">Anton</a> 👋
 </h3>
@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://www.warnstrom.com/" target="_blank" rel="noreferr
 <h2 align="center">
 I'm a self-taught Full-Stack Web Developer 💻, currently finishing my degree in Information Technology.
 </h2> 
-<!--
+
 
 ## 🔭 I'm currently working on
 
